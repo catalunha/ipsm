@@ -1,0 +1,32 @@
+{
+    "cabecalho": {
+        "origem": {
+            "identificacaoPrestador": {
+                "cnpj": "00000000000000"
+            }
+        },
+        "destino": {
+            "identificacaoPrestador": {
+                "cnpj": "00000000000000"
+            }
+        },
+        "versaoPadrao": "3.02.00",
+        "identificacaoTransacao": {
+            "dataRegistroTransacao": "1999-01-21",
+            "sequencialTransacao": "985",
+            "horaRegistroTransacao": "13:20:00-05:00",
+            "tipoTransacao": "VERIFICA_ELEGIBILIDADE"
+        }
+    },
+    "pedidoElegibilidade": {
+        "nomeBeneficiario": "JOÃO WILLIAM",
+        "numeroCarteira": "6500119657454410",
+        "identificadorBeneficiario": "070955026",
+        "validadeCarteira": "2020-01-21",
+        "dadosPrestador": {
+            "nomeContratado": " WILSON ",
+            "codigoPrestadorNaOperadora": "00000000000"
+        },
+        "numeroCNS": "741"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "prestadorParaOperadora": {
+        "solicitacaoProcedimento": {
+            "solicitacaoSPSADT": {
+                "numeroGuiaPrincipal": 1234567890123,
+                "dataSolicitacao": "2015-10-20",
+                "caraterAtendimento": 1,
+                "dadosBeneficiario": {
+                    "nomeBeneficiario": "CAMILA",
+                    "numeroCarteira": 6500119677185611,
+                    "atendimentoRN": "N",
+                    "identificadorBeneficiario": 150797080,
+                    "numeroCNS": 150797085
+                },
+                "procedimentosSolicitados": [
+                    {
+                        "procedimento": {
+                            "descricaoProcedimento": "RM de ombro (unilateral)",
+                            "codigoProcedimento": 36010120,
+                            "codigoTabela": 22
+                        },
+                        "quantidadeSolicitada": 1
+                    },
+                    {
+                        "procedimento": {
+                            "descricaoProcedimento": "RM de articulacao temporo-mandibular (bilateral)",
+                            "codigoProcedimento": 36010111,
+                            "codigoTabela": 22
+                        },
+                        "quantidadeSolicitada": 1
+                    }
+                ],
+                "indicacaoClinica": "XXXXXXXXX",
+                "dadosSolicitante": {
+                    "profissionalSolicitante": {
+                        "cbos": 225260,
+                        "nomeProfissional": "PAULO VALADARES",
+                        "uf": "MG",
+                        "conselhoProfissional": "01",
+                        "numeroConselhoProfissional": 30074
+                    },
+                    "contratadoSolicitante": {
+                        "cpfContratado": 25853058633,
+                        "nomeContratado": "GILBERTO"
+                    }
+                },
+                "dadosExecutante": {
+                    "nomeContratado": "GILBERTO",
+                    "CNES": 11233233,
+                    "codigonaOperadora": 258530586811
+                },
+                "cabecalhoSolicitacao": {
+                    "numeroGuiaPrestador": "1234567890123",
+                    "registroANS": 4173
+                }
+            }
+        }
+    },
+    "cabecalho": {
+        "origem": {
+            "identificacaoPrestador": {
+                "codigoPrestadorNaOperadora": "17163528000184"
+            },
+            "registroANS": 9992
+        },
+        "destino": {
+            "identificacaoPrestador": {
+                "codigoPrestadorNaOperadora": "69163858000105"
+            }
+        },
+        "versaoPadrao": "3.02.00",
+        "identificacaoTransacao": {
+            "dataRegistroTransacao": "2015-10-20",
+            "sequencialTransacao": 452565,
+            "horaRegistroTransacao": "15:46:28",
+            "tipoTransacao": "SOLICITACAO_PROCEDIMENTOS"
+        }
+    }
+}

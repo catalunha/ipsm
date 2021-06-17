@@ -1,0 +1,42 @@
+{
+    "cabecalho": {
+        "identificacaoTransacao": {
+            "tipoTransacao": "CANCELA_GUIA",
+            "sequencialTransacao": "13340",
+            "dataRegistroTransacao": "2009-08-04",
+            "horaRegistroTransacao": "10:22:00"
+        },
+        "origem": {
+            "identificacaoPrestador": {
+                "cnpj": "04532957000258"
+            }
+        },
+        "destino": {
+            "registroANS": "000043"
+        },
+        "versaoPadrao": "3.02.00"
+    },
+    "prestadorParaOperadora": {
+        "cancelaGuia": {
+            "dadosPrestador": {
+                "identificacao": {
+                    "codigoPrestadorNaOperadora": "71163258000125"
+                },
+                "nomeContratado": "Prestador Teste",
+                "numeroCNES": ""
+            },
+            "tipoGuia": "2",
+            "guia": {
+                "dadosGuia": {
+                    "identificacaoFontePagadora": {
+                        "registroANS": "000043"
+                    },
+                    "dataEmissaoGuia": "2009-05-05",
+                    "numeroGuiaPrestador": "99985"
+                }
+            },
+            "observacao": "Teste de cancelamento",
+            "usuario": "gestor1"
+        }
+    }
+}

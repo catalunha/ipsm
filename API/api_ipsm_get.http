@@ -1,0 +1,32 @@
+@baseUrl = http://sigashomologa.prodemge.gov.br/sigas-web/rest
+@token = 6b86e9ad-d3c6-4c76-ba03-8913e2bb0e91
+###
+// 4 - FARMÁCIA
+// 4.3 /farmacia/status-farmacia
+GET {{baseUrl}}/farmacia/status-farmacia
+?msg=k0J5000
+Content-Type: application/json
+Authentication: {{token}}
+
+###
+
+// 5 - com dados
+// 5 /autorizacao/confirma-procedimento
+GET {{baseUrl}}/autorizacao/confirma-procedimento
+?senha=KXV5000
+&cpfExecutante=05175053678
+&cbos=225260
+Content-Type: application/json
+Authentication: {{token}}
+
+###
+// 5 - sem dados
+// 5 /autorizacao/confirma-procedimento
+GET {{baseUrl}}/autorizacao/confirma-procedimento
+?senha=KXV5000
+&cpfExecutante=
+&cbos=
+Content-Type: application/json
+Authentication: {{token}}
+
+###

@@ -1,0 +1,16 @@
+@baseUrl = http://sigashomologa.prodemge.gov.br/sigas-web/rest
+@token = 6b86e9ad-d3c6-4c76-ba03-8913e2bb0e91
+###
+// 1 - Auth
+// /auth/default/
+POST {{baseUrl}}/auth/default
+Content-Type: application/json
+
+{
+    "usuario":"INTEGRAIZAIRA",
+    "senha":"54595f50525d4c4e4c5a3d3b3d3c"
+}
+// token obtido as  
+// "token": "6b86e9ad-d3c6-4c76-ba03-8913e2bb0e91"
+
+###

@@ -1,0 +1,20 @@
+{
+    "cancelaPedidoMedicamento": {
+        "dadosPrestador": {
+            "codigoPrestadorNaOperadora": "71252156001954",
+            "nomeContratado": "DROGARIA"
+        },
+        "pedido": {
+            "dadosPedido": {
+                "identificacaoFontePagadora": {
+                    "nome": "MARIA ",
+                    "numeroCartao": "2587112609632501"
+                },
+                "dataEmissao": "2016-06-22",
+                "numeroGuiaPrestador": "9999"
+            }
+        },
+        "observacao": "Teste de cancelamento",
+        "usuario": "gestor1"
+    }
+}
