@@ -1,0 +1,11 @@
+@baseUrl = http://sigashomologa.prodemge.gov.br/sigas-web/rest
+@token = cc88d226-cfc8-4fc9-9b61-b45c69c322f5
+###
+// 4 - FARMÁCIA
+// 4.3 /farmacia/status-farmacia
+GET {{baseUrl}}/farmacia/status-farmacia
+?msg=k0J5000
+Content-Type: application/json
+Authentication: {{token}}
+
+###

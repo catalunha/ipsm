@@ -3,17 +3,17 @@
         "solicitaStatusAutorizacao": {
             "dadosContratado": {
                 "nomeContratado": "FELIPE",
-                "codigoPrestadorNaOperadora": "17163528000152"
+                "codigoPrestadorNaOperadora": "20363229000360"
             },
             "dadosBeneficiario": {
                 "nomeBeneficiario": "CARLOS",
-                "numeroCarteira": 12345678,
+                "numeroCarteira": 6500118469181614,
                 "atendimentoRN": "N",
-                "identificadorBeneficiario": 98765587,
-                "numeroCNS": 98765574
+                "identificadorBeneficiario": 123,
+                "numeroCNS": 7682573
             },
             "identificacaoSolicitacao": {
-                "numeroGuiaPrestador": "1234567890125",
+                "numeroGuiaPrestador": "KH8XEB0",
                 "registroANS": 417312
             }
         }
@@ -21,7 +21,7 @@
     "cabecalho": {
         "origem": {
             "identificacaoPrestador": {
-                "codigoPrestadorNaOperadora": "17163528000184"
+                "codigoPrestadorNaOperadora": "20363229000360"
             },
             "registroANS": 9992
         },
@@ -32,7 +32,7 @@
         },
         "versaoPadrao": "3.02.00",
         "identificacaoTransacao": {
-            "dataRegistroTransacao": "2014-06-09",
+            "dataRegistroTransacao": "2021-06-17",
             "sequencialTransacao": 52330,
             "horaRegistroTransacao": "16:08:30",
             "tipoTransacao": "STATUS_AUTORIZACAO"

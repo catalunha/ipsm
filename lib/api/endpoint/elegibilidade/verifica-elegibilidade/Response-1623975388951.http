@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Fri, 18 Jun 2021 00:15:36 GMT
+Server: Apache
+Content-Type: application/json
+X-FRAME-OPTIONS: SAMEORIGIN
+Connection: close
+Transfer-Encoding: chunked
+
+{"operadoraParaPrestador":{"respostaElegibilidade":{"reciboElegibilidade":{"numeroCarteira":"6500115125395212","respostaSolicitacao":"N","identificadorBeneficiario":"303529","motivosNegativa":{"motivoNegativa":{"codigoGlosa":"","descricaoGlosa":"O cartão do beneficiário não está ativado."}}}}},"cabecalho":{"origem":{"identificacaoPrestador":{"cnpj":"00000000000000"}},"destino":{"identificacaoPrestador":{"cnpj":"00000000000000"}},"versaoPadrao":"3.02.00","identificacaoTransacao":{"dataRegistroTransacao":"17/06/2021","horaRegistroTransacao":"21:15","tipoTransacao":"SITUACAO_ELEGIBILIDADE"}}}

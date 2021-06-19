@@ -1,0 +1,11 @@
+@baseUrl = http://sigashomologa.prodemge.gov.br/sigas-web/rest
+@token = f45bb538-82e5-4486-b4ce-d12d44a2e1d3
+###
+// 3.0 Assistencia a saúde
+// 3.1 /autorizacao/solicita-procedimento
+POST {{baseUrl}}/autorizacao/solicita-procedimento
+Content-Type: application/json
+Authentication: {{token}}
+
+< ./endpoint/autorizacao/solicita-procedimento/body.json
+###

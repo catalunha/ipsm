@@ -1,0 +1,14 @@
+elegibilidade_verifica_elegibilidade."cnpj":"00000000000000"
+elegibilidade_verifica_elegibilidade."cnpj":"00000000000000"
+elegibilidade_verifica_elegibilidade."codigoPrestadorNaOperadora":"00000000000"
+elegibilidade_verifica_elegibilidade."dataRegistroTransacao":"1999-01-21",
+elegibilidade_verifica_elegibilidade."horaRegistroTransacao":"13:20:00-05:00",
+elegibilidade_verifica_elegibilidade."identificadorBeneficiario":"037344013",
+elegibilidade_verifica_elegibilidade."nomeBeneficiario":"MariaIzabelDutraCatalunha",
+elegibilidade_verifica_elegibilidade."nomeContratado":"IzabelCristina",
+elegibilidade_verifica_elegibilidade."numeroCarteira":"6500115125395212",
+elegibilidade_verifica_elegibilidade."numeroCNS":"741"
+elegibilidade_verifica_elegibilidade."sequencialTransacao":"985",
+elegibilidade_verifica_elegibilidade."tipoTransacao":"VERIFICA_ELEGIBILIDADE"
+elegibilidade_verifica_elegibilidade."validadeCarteira":"2020-01-21",
+elegibilidade_verifica_elegibilidade."versaoPadrao":"3.02.00",

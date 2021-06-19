@@ -1,0 +1,16 @@
+autorizacao_cancela_procedimento."cnpj":"04532957000258"
+autorizacao_cancela_procedimento."codigoPrestadorNaOperadora":"71163258000125"
+autorizacao_cancela_procedimento."dataEmissaoGuia":"2009-05-05",
+autorizacao_cancela_procedimento."dataRegistroTransacao":"2009-08-04",
+autorizacao_cancela_procedimento."horaRegistroTransacao":"10:22:00"
+autorizacao_cancela_procedimento."nomeContratado":"PrestadorTeste",
+autorizacao_cancela_procedimento."numeroCNES":""
+autorizacao_cancela_procedimento."numeroGuiaPrestador":"99985"
+autorizacao_cancela_procedimento."observacao":"Testedecancelamento",
+autorizacao_cancela_procedimento."registroANS":"000043"
+autorizacao_cancela_procedimento."registroANS":"000043"
+autorizacao_cancela_procedimento."sequencialTransacao":"13340",
+autorizacao_cancela_procedimento."tipoGuia":"2",
+autorizacao_cancela_procedimento."tipoTransacao":"CANCELA_GUIA",
+autorizacao_cancela_procedimento."usuario":"gestor1"
+autorizacao_cancela_procedimento."versaoPadrao":"3.02.00"

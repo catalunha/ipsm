@@ -1,0 +1,17 @@
+autorizacao_status_autorizacao."atendimentoRN":"N",
+autorizacao_status_autorizacao."codigoPrestadorNaOperadora":"20363229000360"
+autorizacao_status_autorizacao."codigoPrestadorNaOperadora":"20363229000360"
+autorizacao_status_autorizacao."codigoPrestadorNaOperadora":"99999999999999"
+autorizacao_status_autorizacao."dataRegistroTransacao":"2021-06-17",
+autorizacao_status_autorizacao."horaRegistroTransacao":"16:08:30",
+autorizacao_status_autorizacao."identificadorBeneficiario":123,
+autorizacao_status_autorizacao."nomeBeneficiario":"CARLOS",
+autorizacao_status_autorizacao."nomeContratado":"FELIPE",
+autorizacao_status_autorizacao."numeroCarteira":6500118469181614,
+autorizacao_status_autorizacao."numeroCNS":7682573
+autorizacao_status_autorizacao."numeroGuiaPrestador":"KH8XEB0",
+autorizacao_status_autorizacao."registroANS":417312
+autorizacao_status_autorizacao."registroANS":9992
+autorizacao_status_autorizacao."sequencialTransacao":52330,
+autorizacao_status_autorizacao."tipoTransacao":"STATUS_AUTORIZACAO"
+autorizacao_status_autorizacao."versaoPadrao":"3.02.00",

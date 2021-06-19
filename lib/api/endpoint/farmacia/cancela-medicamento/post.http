@@ -1,0 +1,11 @@
+@baseUrl = http://sigashomologa.prodemge.gov.br/sigas-web/rest
+@token = f45bb538-82e5-4486-b4ce-d12d44a2e1d3
+###
+// 4 - FARMÁCIA
+// 4.2 /farmacia/cancela-medicamento
+POST {{baseUrl}}/farmacia/cancela-medicamento
+Content-Type: application/json
+Authentication: {{token}}
+
+< ./endpoint/farmacia/cancela-medicamento/body.json
+###

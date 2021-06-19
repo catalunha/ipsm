@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Fri, 18 Jun 2021 00:06:21 GMT
+Server: Apache
+Content-Type: application/json
+X-FRAME-OPTIONS: SAMEORIGIN
+Connection: close
+Transfer-Encoding: chunked
+
+{"operadoraParaPrestador":{"respostaElegibilidade":{"reciboElegibilidade":{"numeroCarteira":"6500112670263113","respostaSolicitacao":"S","identificadorBeneficiario":"183949"}}},"cabecalho":{"origem":{"identificacaoPrestador":{"cnpj":"00000000000000"}},"destino":{"identificacaoPrestador":{"cnpj":"00000000000000"}},"versaoPadrao":"3.02.00","identificacaoTransacao":{"dataRegistroTransacao":"17/06/2021","horaRegistroTransacao":"21:6","tipoTransacao":"SITUACAO_ELEGIBILIDADE"}}}

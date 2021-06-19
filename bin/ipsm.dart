@@ -2,12 +2,12 @@
 // import 'dart:convert';
 import 'dart:io';
 
-import 'package:ipsm/api/body/autorizacao/cancela-procedimento/autorizacao_cancela_procedimento.dart';
-import 'package:ipsm/api/body/autorizacao/solicita-procedimento/autorizacao_solicita_procedimento.dart';
-import 'package:ipsm/api/body/autorizacao/status-autorizacao/autorizacao_status_autorizacao.dart';
-import 'package:ipsm/api/body/elegibilidade/verifica-elegibilidade/elegibilidade_verifica_elegibilidade.dart';
-import 'package:ipsm/api/body/farmacia/cancela-medicamento/farmarcia_cancela_medicamento.dart';
-import 'package:ipsm/api/body/farmacia/solicita-medicamento/farmacia_solicita_medicamento.dart';
+import 'package:ipsm/api/endpoint/autorizacao/cancela-procedimento/autorizacao_cancela_procedimento.dart';
+import 'package:ipsm/api/endpoint/autorizacao/solicita-procedimento/autorizacao_solicita_procedimento.dart';
+import 'package:ipsm/api/endpoint/autorizacao/status-autorizacao/autorizacao_status_autorizacao.dart';
+import 'package:ipsm/api/endpoint/elegibilidade/verifica-elegibilidade/elegibilidade_verifica_elegibilidade.dart';
+import 'package:ipsm/api/endpoint/farmacia/cancela-medicamento/farmarcia_cancela_medicamento.dart';
+import 'package:ipsm/api/endpoint/farmacia/solicita-medicamento/farmacia_solicita_medicamento.dart';
 import 'package:ipsm/gera_senha_ipsm.dart';
 
 void main(List<String> arguments) {
