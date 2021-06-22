@@ -7,10 +7,10 @@ POST | elegibilidade/verifica-elegibilidade |
 POST | autorizacao/solicita-procedimento |
 POST | autorizacao/status-autorizacao |
 POST | autorizacao/cancela-procedimento |
+GET | autorizacao/confirma-procedimento|
 POST | farmacia/solicita-medicamento |
 POST | farmacia/cancela-medicamento |
 GET | farmacia/status-farmacia |
-GET | autorizacao/confirma-procedimento|
 
 
 # Tabela Tab8, Pag 22 Urls com cbos

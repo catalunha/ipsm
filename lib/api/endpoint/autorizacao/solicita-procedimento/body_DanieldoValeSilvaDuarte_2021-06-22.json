@@ -1,0 +1,71 @@
+{
+    "prestadorParaOperadora": {
+        "solicitacaoProcedimento": {
+            "solicitacaoSPSADT": {
+                "numeroGuiaPrincipal": 999,
+                "dataSolicitacao": "2021-06-22",
+                "caraterAtendimento": 1,
+                "dadosBeneficiario": {
+                    "nomeBeneficiario": "",
+                    "numeroCarteira": 6500663366335522,
+                    "atendimentoRN": "N",
+                    "identificadorBeneficiario": 999,
+                    "numeroCNS": 999
+                },
+                "procedimentosSolicitados": [
+                    {
+                        "procedimento": {
+                            "descricaoProcedimento": "",
+                            "codigoProcedimento": 62020153,
+                            "codigoTabela": 22
+                        },
+                        "quantidadeSolicitada": 4
+                    }
+                ],
+                "indicacaoClinica": "",
+                "dadosSolicitante": {
+                    "profissionalSolicitante": {
+                        "cbos": 223810,
+                        "nomeProfissional": "",
+                        "uf": "MG",
+                        "conselhoProfissional": "04",
+                        "numeroConselhoProfissional": 68614
+                    },
+                    "contratadoSolicitante": {
+                        "cpfContratado": 06648123680,
+                        "nomeContratado": ""
+                    }
+                },
+                "dadosExecutante": {
+                    "nomeContratado": "",
+                    "CNES": 7682573,
+                    "codigonaOperadora": 999
+                },
+                "cabecalhoSolicitacao": {
+                    "numeroGuiaPrestador": "",
+                    "registroANS": ""
+                }
+            }
+        }
+    },
+    "cabecalho": {
+        "origem": {
+            "identificacaoPrestador": {
+                "codigoPrestadorNaOperadora": ""
+            },
+            "registroANS": 999
+        },
+        "destino": {
+            "identificacaoPrestador": {
+                "codigoPrestadorNaOperadora": "20363229000106"
+            }
+        },
+        "versaoPadrao": "3.02.00",
+        "identificacaoTransacao": {
+            "dataRegistroTransacao": "2021-06-22",
+            "sequencialTransacao": 999,
+            "horaRegistroTransacao": "08:00:00",
+            "tipoTransacao": "SOLICITACAO_PROCEDIMENTOS"
+        }
+    }
+}

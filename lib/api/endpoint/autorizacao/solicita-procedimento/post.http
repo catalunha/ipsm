@@ -7,5 +7,10 @@ POST {{baseUrl}}/autorizacao/solicita-procedimento
 Content-Type: application/json
 Authentication: {{token}}
 
-< ./endpoint/autorizacao/solicita-procedimento/body.json
+// endpoint do pdf
+// < ./endpoint/autorizacao/solicita-procedimento/body.json
+# < ./body_AndersonGabrielBarbosaChaves_2021-06-22.json
+# < ./body_ChristianAndersenCerqueiraOliveiraFreitas_2021-06-22.json
+# < ./body_DanieldoValeSilvaDuarte_2021-06-22.json
+# < ./body_JoaoPedroAraujodeSouza_2021-06-22.json
 ###

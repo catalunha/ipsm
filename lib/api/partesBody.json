@@ -1,0 +1,23 @@
+{
+    "cabecalho": {
+        "origem": {
+            "identificacaoPrestador": {
+                "codigoPrestadorNaOperadora": "17163528000184"
+            },
+            "registroANS": 9992
+        },
+        "destino": {
+            "identificacaoPrestador": {
+                "codigoPrestadorNaOperadora": "69163858000105"
+            }
+        },
+        "versaoPadrao": "3.02.00",
+        "identificacaoTransacao": {
+            "dataRegistroTransacao": "2015-10-20",
+            "sequencialTransacao": 452565,
+            "horaRegistroTransacao": "15:46:28",
+            "tipoTransacao": "SOLICITACAO_PROCEDIMENTOS"
+        }
+    }
+
+}

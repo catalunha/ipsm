@@ -1,0 +1,41 @@
+{
+    "prestadorParaOperadora": {
+        "solicitaStatusAutorizacao": {
+            "dadosContratado": {
+                "nomeContratado": "",
+                "codigoPrestadorNaOperadora": "20363229000106"
+            },
+            "dadosBeneficiario": {
+                "nomeBeneficiario": "",
+                "numeroCarteira": 6500116256125612,
+                "atendimentoRN": "N",
+                "identificadorBeneficiario": 999,
+                "numeroCNS": 999
+            },
+            "identificacaoSolicitacao": {
+                "numeroGuiaPrestador": "",
+                "registroANS": 999
+            }
+        }
+    },
+    "cabecalho": {
+        "origem": {
+            "identificacaoPrestador": {
+                "codigoPrestadorNaOperadora": ""
+            },
+            "registroANS": 999
+        },
+        "destino": {
+            "identificacaoPrestador": {
+                "codigoPrestadorNaOperadora": "20363229000106"
+            }
+        },
+        "versaoPadrao": "3.02.00",
+        "identificacaoTransacao": {
+            "dataRegistroTransacao": "2021-06-22",
+            "sequencialTransacao": 999,
+            "horaRegistroTransacao": "08:00:00",
+            "tipoTransacao": "STATUS_AUTORIZACAO"
+        }
+    }
+}

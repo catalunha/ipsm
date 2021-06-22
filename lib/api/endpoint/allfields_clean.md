@@ -1,0 +1,45 @@
+field | url
+---|---
+'atendimentoRN':'N'|autorizacao_solicita_procedimento, autorizacao_status_autorizacao
+'caraterAtendimento':1|autorizacao_solicita_procedimento
+'cbos':225260|autorizacao_solicita_procedimento
+'CNES':11233233|autorizacao_solicita_procedimento
+'cnpj':'00000000000000'|elegibilidade_verifica_elegibilidade, legibilidade_verifica_elegibilidade, autorizacao_cancela_procedimento
+'codigonaOperadora':258530586811|autorizacao_solicita_procedimento
+'codigoPrestadorNaOperadora':'00000000000'|elegibilidade_verifica_elegibilidade, autorizacao_solicita_procedimento, autorizacao_status_autorizacao, autorizacao_cancela_procedimento
+'codigoProcedimento':36010111|autorizacao_solicita_procedimento, autorizacao_solicita_procedimento
+'codigoTabela':22|autorizacao_solicita_procedimento
+'conselhoProfissional':'01'|autorizacao_solicita_procedimento
+'cpfContratado':25853058633|autorizacao_solicita_procedimento
+'dataEmissaoGuia':'2009-05-05'|autorizacao_cancela_procedimento
+'dataRegistroTransacao':'1999-01-21'|elegibilidade_verifica_elegibilidade, autorizacao_cancela_procedimento, autorizacao_solicita_procedimento, autorizacao_status_autorizacao
+'dataSolicitacao':'2015-10-20'|autorizacao_solicita_procedimento
+'descricaoProcedimento':'RMdearticulacaotemporo-mandibular(bilateral)'|autorizacao_solicita_procedimento
+'horaRegistroTransacao':'10:22:00'|autorizacao_cancela_procedimento, elegibilidade_verifica_elegibilidade, autorizacao_solicita_procedimento, autorizacao_status_autorizacao
+'identificadorBeneficiario':'037344013'|elegibilidade_verifica_elegibilidade, autorizacao_status_autorizacao, autorizacao_solicita_procedimento
+'indicacaoClinica':'XXXXXXXXX'|autorizacao_solicita_procedimento
+'nomeBeneficiario':'CAMILA'|autorizacao_solicita_procedimento, autorizacao_status_autorizacao, elegibilidade_verifica_elegibilidade
+'nomeContratado':'FELIPE'|autorizacao_status_autorizacao, autorizacao_solicita_procedimento, elegibilidade_verifica_elegibilidade, autorizacao_cancela_procedimento
+'nomeProfissional':'PAULOVALADARES'|autorizacao_solicita_procedimento
+'numeroCarteira':'6500115125395212'|elegibilidade_verifica_elegibilidade, autorizacao_status_autorizacao, autorizacao_solicita_procedimento
+'numeroCNES':''|autorizacao_cancela_procedimento
+'numeroCNS':'741'|elegibilidade_verifica_elegibilidade, autorizacao_solicita_procedimento, autorizacao_status_autorizacao
+'numeroConselhoProfissional':30074|autorizacao_solicita_procedimento
+'numeroGuiaPrestador':'1234567890123'|autorizacao_solicita_procedimento, autorizacao_cancela_procedimento, autorizacao_status_autorizacao
+'numeroGuiaPrincipal':1234567890123|autorizacao_solicita_procedimento
+'observacao':'Testedecancelamento'|autorizacao_cancela_procedimento
+'quantidadeSolicitada':1|autorizacao_solicita_procedimento
+'registroANS':'000043'|autorizacao_cancela_procedimento, autorizacao_solicita_procedimento, autorizacao_status_autorizacao
+'sequencialTransacao':'13340'|autorizacao_cancela_procedimento, elegibilidade_verifica_elegibilidade, autorizacao_solicita_procedimento, autorizacao_status_autorizacao
+'tipoGuia':'2'|autorizacao_cancela_procedimento
+'tipoTransacao':'CANCELA_GUIA'|autorizacao_cancela_procedimento
+'tipoTransacao':'SOLICITACAO_PROCEDIMENTOS'|autorizacao_solicita_procedimento
+'tipoTransacao':'STATUS_AUTORIZACAO'|autorizacao_status_autorizacao
+'tipoTransacao':'VERIFICA_ELEGIBILIDADE'|elegibilidade_verifica_elegibilidade
+'uf':'MG'|autorizacao_solicita_procedimento
+'usuario':'gestor1'|autorizacao_cancela_procedimento
+'validadeCarteira':'2020-01-21'|elegibilidade_verifica_elegibilidade
+'versaoPadrao':'3.02.00'|autorizacao_cancela_procedimento, autorizacao_solicita_procedimento, autorizacao_status_autorizacao, elegibilidade_verifica_elegibilidade
+
+
+
